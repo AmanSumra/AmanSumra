@@ -44,7 +44,7 @@ Passionate Full Stack Developer focused on building scalable web applications an
 
 # 📫 Connect With Me
 - 📧 Email: sumraaman72@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/aman-sumra-4a858b286](https://www.linkedin.com/in/aman-sumra-9497002a1/)
+- 💼 LinkedIn: https://www.linkedin.com/in/aman-sumra-9497002a1/
 - 🌐 GitHub: https://github.com/AmanSumra
 
 ---
